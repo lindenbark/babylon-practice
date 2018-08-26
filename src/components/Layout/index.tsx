@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Helmet from 'react-helmet';
 
-import './Layout.module.scss';
+import './index.module.scss';
 
 const Layout: React.SFC = ({ children }) => <>
     <Helmet>
