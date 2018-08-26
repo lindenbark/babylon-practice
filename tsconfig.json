@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "esnext",
+        "lib": ["dom", "es2015", "es2017"],
+        "jsx": "react",
+        "rootDir": "src",
+        "strict": true,
+        "noUnusedLocals": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
