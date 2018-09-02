@@ -4,4 +4,5 @@ export = {
         'gatsby-plugin-sass',
         'gatsby-plugin-typescript',
     ],
+    pathPrefix: '/babylon-practice',
 };
