@@ -63,7 +63,7 @@ const PendulumPage = () => <Layout>
             const shadowGenerator = new BABYLON.ShadowGenerator(512, light1);
             // shadowGenerator.usePoissonSampling = true;
             shadowGenerator.useBlurExponentialShadowMap = true;
-            shadowGenerator.getShadowMap()!.renderList.push(
+            shadowGenerator.getShadowMap()!.renderList!.push(
                 sphere1,
                 sphere2,
                 cylinder1,
