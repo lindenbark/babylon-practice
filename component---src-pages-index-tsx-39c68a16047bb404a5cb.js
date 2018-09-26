@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{182:function(e,n,t){"use strict";t.r(n);var l=t(0),r=t(187);n.default=function(){return l.createElement(r.a,null,"Hello, World!")}},187:function(e,n,t){"use strict";var l=t(0),r=t(192),a=t.n(r);t(188),n.a=function(e){var n=e.children;return l.createElement(l.Fragment,null,l.createElement(a.a,null,l.createElement("title",null,"babylon-practice")),n)}},188:function(e,n,t){}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-39c68a16047bb404a5cb.js.map
